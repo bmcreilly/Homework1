@@ -1,17 +1,17 @@
 body{
-  background: black;
+  background: yellow;
   color: white;
 }
 h1{
-  color: blue;
+  color: Green;
   /*background-color:#3F4142;*/
   font-size: 25px;
   font-weight: 100;
   font-family: 'Anton', sans-serif;
 }
   #first{
-  color: white;
-  font-size: 100px;
+  color: black;
+  font-size: 200px;
   font-family: 'Open Sans Condensed', sans-serif;
   }
 .second{
